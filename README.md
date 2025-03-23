@@ -60,11 +60,11 @@ MIT — Free and Open Source Software
 
 ---
 
-Anything else you want to add before we ship it?  
+Anything else you want to add before you ship it?  
 I can help you:
 - Push to GitHub with a proper commit tree
 - Create Render deploy buttons
 - Add unit tests or swagger docs
 
-Let me know how you want to polish it ✨
+Let me know how you want to polish it for your production ✨
 # taskforge-lite
