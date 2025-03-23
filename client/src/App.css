@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Roboto', sans-serif;
+  background: #f4f6f8;
+  color: #333;
+}
+
+button {
+  text-transform: none;
+}

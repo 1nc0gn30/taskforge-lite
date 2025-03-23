@@ -1,0 +1,16 @@
+# Node
+node_modules
+.env
+
+# Vite
+dist
+
+# Logs
+logs
+*.log
+
+# Mac/Linux
+.DS_Store
+
+# Render/Build Artifacts
+*.render-build

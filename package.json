@@ -1,0 +1,16 @@
+{
+    "name": "taskforge-lite",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev:client": "npm --prefix client run dev",
+        "dev:gateway": "npm --prefix gateway run dev",
+        "dev:users": "npm --prefix services/users run dev",
+        "dev:tasks": "npm --prefix services/tasks run dev",
+        "dev:comments": "npm --prefix services/comments run dev"
+    },
+    "dependencies": {
+        "axios": "^1.8.4",
+        "framer-motion": "^12.5.0"
+    }
+}
